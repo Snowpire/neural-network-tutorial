@@ -1,4 +1,9 @@
 # Neurons
+Run it in your browser on Kaggle instead:
+https://www.kaggle.com/code/olekristianouff/neuron-tutorial
+
+YouTube tutorial:
+https://youtu.be/H8_fhavLdoA
 
 This is the notebook from my YouTube tutorial on how to make a neuron from scratch. Play around and edit it. You can also try forking it, fixing it, and making a pull request if you want to learn how to do that!
 
@@ -11,10 +16,12 @@ This is the notebook from my YouTube tutorial on how to make a neuron from scrat
 
 ## Install
 
-Pick the setup that matches the tool you prefer.
+Click the green code button on the upper right part of the files window, and download as zip. Extract anywhere. Make sure you have Python installed.
+
+Open a cmd window in the folder with the extracted files and write these lines one by one in the window.
 
 ### Option 1: `requirements.txt`
-
+this is the easiest one.
 ```bash
 python -m venv .venv
 .venv\Scripts\activate

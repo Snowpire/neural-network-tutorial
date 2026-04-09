@@ -1,0 +1,10 @@
+name: neurons
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - jupyter>=1.0.0
+  - ipykernel>=6.29
+  - matplotlib>=3.8
+  - mplcursors>=0.5.3
+  - ipympl>=0.9.3

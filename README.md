@@ -67,6 +67,10 @@ For Kaggle or Colab, the usual extra step is to add a setup cell at the top of t
 !pip install -r requirements.txt
 ```
 
+# Support me
+https://ko-fi.com/snowpire
+
+https://www.patreon.com/cw/Snowpire
 ## Notes
 
 - The notebook uses `mplcursors` and the Matplotlib widget backend in a few places, so interactive behavior can vary a bit across platforms.
